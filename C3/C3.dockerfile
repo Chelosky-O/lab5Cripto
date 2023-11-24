@@ -1,5 +1,5 @@
-#Ubuntu 16.10
-FROM ubuntu:16.10
+#Ubuntu 18.10
+FROM ubuntu:18.10
 
 COPY sources.list /etc/apt/sources.list
 
